@@ -109,3 +109,42 @@ li {
     width: 400px;
     padding-left: 60px;
 }
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.cta-box {
+    padding: 20px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 5px;
+}
+
+.cta-title {
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.cta-txt {
+    color: #E5E7EB;
+    font-size: 15px;
+}
+
+#cta-btn {
+    margin-left: 100px;
+    background-color: #3882F6;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+    padding: 3px 20px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+
