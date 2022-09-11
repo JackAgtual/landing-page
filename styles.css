@@ -152,12 +152,19 @@ li {
 
 .random {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
+}
+
+.random-title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
 }
 
 .tiles {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
 }
 
