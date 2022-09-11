@@ -17,6 +17,12 @@ body > div {
     padding: 30px 5%;
 }
 
+.footer {
+    padding: 20px 0;
+    color: #1F2937;
+    font-size: 12px;
+}
+
 #header-logo {
     font-size: 24px;
     font-weight: bold;
